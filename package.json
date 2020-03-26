@@ -18,7 +18,7 @@
     "express-swagger-generator": "^1.1.17",
     "http-errors": "^1.6.3",
     "mongodb": "^3.1.8",
-    "mongoose": "4.6.4",
+    "mongoose": "5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "~1.9.0",
     "node-fetch": "^2.3.0",
