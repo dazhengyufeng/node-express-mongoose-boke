@@ -7,8 +7,8 @@ const logger = require('morgan');
 const session = require('express-session');
 
 // swagger1
-const swaggerUi = require('swagger-ui-express')
-const swaggerJSDoc = require('swagger-jsdoc')
+// const swaggerUi = require('swagger-ui-express')
+// const swaggerJSDoc = require('swagger-jsdoc')
 
 // import 等语法要用到 babel 支持
 require('babel-register');
