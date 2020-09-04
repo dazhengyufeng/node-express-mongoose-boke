@@ -18,7 +18,7 @@
     "express-session": "^1.15.6",
     "express-swagger-generator": "^1.1.17",
     "http-errors": "^1.6.3",
-    "mongodb": "^3.1.8",
+    "mongodb": "^3.1.13",
     "mongoose": "4.6.4",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "~1.9.0",
